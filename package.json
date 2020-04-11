@@ -24,7 +24,6 @@
     "sticky-cluster": "^0.3.2"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
-    "eslint": "^3.19.0"
+    "eslint": "^6.8.0"
   }
 }

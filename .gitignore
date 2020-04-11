@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+logs/
+deploy/
+/package-lock.json
